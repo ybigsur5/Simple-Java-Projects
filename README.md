@@ -2,4 +2,4 @@
 A compilation of my mini projects in learning Java
 
 1. Chess game with Pastel colours and colours switching
-2. Snake game
+2. Pomodoro Timer
